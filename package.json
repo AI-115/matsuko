@@ -1,0 +1,16 @@
+{
+  "name": "matsuko",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node.js": "0.0.0"
+  },
+  "version": "1.0.0",
+  "description": "BOT Developed By AI-115",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AI-115",
+  "license": "ISC"
+}
